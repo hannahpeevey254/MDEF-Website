@@ -47,7 +47,7 @@ theme:
     accent: white
   font:
     # See available fonts at https://fonts.google.com/
-    text: BBH Sans Bogle
+    text: Roboto Condensed
     code: Cutive Mono
 
     extra_css:
