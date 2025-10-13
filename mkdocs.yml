@@ -119,3 +119,6 @@ extra_css:
   - stylesheets/extra.css
   - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
 
+extra_css:
+  - stylesheets/extra.css
+  - https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap
