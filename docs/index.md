@@ -9,4 +9,4 @@ My background is in Architecture and Design, which has fundamentally reshaped ho
 I’m driven to challenge the boundaries of sustainable design and explore innovative solutions that enhance everyday experiences through spaces, objects, and systems
 
 
-![testphoto jpg](https://github.com/user-attachments/assets/7fed4bd6-8091-40bd-b3fe-493d8ead8fa7)
+
