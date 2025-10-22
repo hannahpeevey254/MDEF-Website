@@ -39,6 +39,10 @@ extra:
     - icon: fontawesome/brands/github
       link: "https://github.com/"
 
+extra_css:
+- stylesheets/extra.css
+- https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap
+
 theme:
   name: material
   palette:
@@ -50,9 +54,6 @@ theme:
     text: Roboto Condensed
     code: Cutive Mono
 
-    extra_css:
-    - stylesheets/extra.css
-    - https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap
 
   icon:
     logo: material/memory
