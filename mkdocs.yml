@@ -24,7 +24,6 @@ nav:
 
 
 
-
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
@@ -122,3 +121,6 @@ extra_css:
 extra_css:
   - stylesheets/extra.css
   - https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap
+
+docs_dir: docs
+use_directory_urls: false
