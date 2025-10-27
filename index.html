@@ -74,13 +74,40 @@
     align-items:center;
     z-index:10;
   ">
-    <nav style="display:flex; gap:40px;">
-      <a href="home/index.html" style="color:white; text-decoration:none; font-size:22px; letter-spacing:2px;">Home</a>
-      <a href="about/index.html" style="color:white; text-decoration:none; font-size:22px; letter-spacing:2px;">About</a>
-      <a href="project/index.html" style="color:white; text-decoration:none; font-size:22px; letter-spacing:2px;">Projects</a>
-      <a href="archive/index.html" style="color:white; text-decoration:none; font-size:22px; letter-spacing:2px;">Archive</a>
-    </nav>
-  </header>
+  <nav style="display:flex; gap:70px; position:relative;">
+  <a href="home/index.html" style="color:white; text-decoration:none; font-size:24px; letter-spacing:4px;">HOME</a>
+  <a href="about/index.html" style="color:white; text-decoration:none; font-size:24px; letter-spacing:4px;">ABOUT</a>
+
+  <!-- Dropdown for Projects -->
+  <div style="position:relative;">
+    <a href="#" style="color:white; text-decoration:none; font-size:24px; letter-spacing:4px;">PROJECTS ▾</a>
+    <div style="
+      display:none;
+      position:absolute;
+      top:40px;
+      left:0;
+      background-color:black;
+      padding:15px 0;
+      border-radius:6px;
+      z-index:20;
+    " class="dropdown">
+      <a href='term1/index.html' style="display:block; padding:10px 25px; color:white; text-decoration:none; font-size:20px;">Term 1</a>
+      <a href='term2/index.html' style="display:block; padding:10px 25px; color:white; text-decoration:none; font-size:20px;">Term 2</a>
+      <a href='term3/index.html' style="display:block; padding:10px 25px; color:white; text-decoration:none; font-size:20px;">Term 3</a>
+    </div>
+  </div>
+
+  <a href="archive/index.html" style="color:white; text-decoration:none; font-size:24px; letter-spacing:4px;">ARCHIVE</a>
+</nav>
+
+<script>
+  // Simple hover dropdown logic
+  const dropdownParent = document.querySelector('nav div');
+  const dropdown = dropdownParent.querySelector('.dropdown');
+  dropdownParent.addEventListener('mouseenter', () => dropdown.style.display = 'block');
+  dropdownParent.addEventListener('mouseleave', () => dropdown.style.display = 'none');
+</script>
+
 
   <!-- Background Image -->
   <section style="
