@@ -44,3 +44,46 @@
 body {
   font-family: 'BBH Sans Bogle', sans-serif;
 }
+
+/* ====== Custom Header (black and spaced out) ====== */
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: black;
+  padding: 25px 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10;
+}
+
+header nav {
+  display: flex;
+  gap: 80px;
+}
+
+header nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+  letter-spacing: 8px; /* space between letters */
+  font-weight: 600;
+  transition: opacity 0.3s;
+}
+
+header nav a:hover {
+  opacity: 0.6;
+}
+
+/* ====== Background image section ====== */
+
+.hero {
+  height: 100vh;
+  width: 100%;
+  background-image: url('../images/home.jpg'); /* make sure your image name/path matches */
+  background-size: cover;
+  background-position:
+
