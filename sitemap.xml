@@ -1,47 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/MDEF/index.html</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/</loc>
          <lastmod>2025-10-27</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/about/index.html</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/MDEF/</loc>
          <lastmod>2025-10-27</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/about/me.html</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/about/</loc>
          <lastmod>2025-10-27</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/archive/index.html</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/about/me/</loc>
          <lastmod>2025-10-27</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/home/index.html</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/archive/</loc>
          <lastmod>2025-10-27</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/project/index.html</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/home/</loc>
          <lastmod>2025-10-27</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/project/project.html</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/project/</loc>
          <lastmod>2025-10-27</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term1/index.html</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/project/project/</loc>
          <lastmod>2025-10-27</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term1/02-Atlas%20of%20Weak%20Signals.html</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/term1/</loc>
          <lastmod>2025-10-27</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term2/index.html</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/term1/01-Bootcamp/</loc>
          <lastmod>2025-10-27</lastmod>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/term3/index.html</loc>
+         <loc>https://fablabbcn.github.io/mdef-template/term1/02-Atlas%20of%20Weak%20Signals/</loc>
+         <lastmod>2025-10-27</lastmod>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/term2/</loc>
+         <lastmod>2025-10-27</lastmod>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/term3/</loc>
          <lastmod>2025-10-27</lastmod>
     </url>
 </urlset>

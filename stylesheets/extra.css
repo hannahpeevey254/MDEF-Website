@@ -44,32 +44,3 @@
 body {
   font-family: 'BBH Sans Bogle', sans-serif;
 }
-/* ===== CUSTOM TOP NAV BAR STYLING ===== */
-
-/* Make top nav font larger and evenly spaced */
-.md-header-nav__title,
-.md-tabs__link {
-  font-size: 1rem;             /* increase overall size */
-  letter-spacing: 0.05em;      /* subtle spacing for style */
-  text-transform: uppercase;   /* optional: all caps */
-}
-
-/* Add more horizontal space between links */
-.md-tabs__link {
-  margin: 1.25rem;           /* space between nav items */
-}
-
-
-/* Center and balance items */
-.md-tabs {
-  justify-content: center;
-}
-/* ===== HIDE LEFT SIDEBAR ===== */
-.md-sidebar--primary {
-  display: none !important;
-}
-
-.md-main__inner {
-  margin-left: 0 !important;
-  max-width: 100% !important;
-}
