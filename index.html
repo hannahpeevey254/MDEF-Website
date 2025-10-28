@@ -86,13 +86,49 @@
   align-items:center;
   z-index:10;
 ">
-  <nav style="display:flex; gap:70px;">
-    <a href="home/index.html" style="color:white; text-decoration:none; font-size:24px; letter-spacing:4px;">HOME</a>
-    <a href="about/index.html" style="color:white; text-decoration:none; font-size:24px; letter-spacing:4px;">ABOUT</a>
-    <a href="project/index.html" style="color:white; text-decoration:none; font-size:24px; letter-spacing:4px;">PROJECTS</a>
-    <a href="archive/index.html" style="color:white; text-decoration:none; font-size:24px; letter-spacing:4px;">ARCHIVE</a>
+  
+  <nav style="display:flex; gap:70px; position:relative;">
+
+    <a href="home/index.html" 
+       style="color:white; text-decoration:none; font-size:24px; letter-spacing:4px;">HOME</a>
+
+    <a href="about/index.html" 
+       style="color:white; text-decoration:none; font-size:24px; letter-spacing:4px;">ABOUT</a>
+
+    <!-- Dropdown -->
+    <div class="dropdown" style="position:relative;">
+      <a href="project/index.html" 
+         style="color:white; text-decoration:none; font-size:24px; letter-spacing:4px;">PROJECTS ▾</a>
+
+      <div class="dropdown-content" style="
+        display:none;
+        position:absolute;
+        top:100%;
+        left:0;
+        background-color:black;
+        min-width:180px;
+        text-align:left;
+        padding:10px 0;
+      ">
+        <a href="term1/index.html" style="display:block; color:white; text-decoration:none; padding:10px 20px; font-size:18px;">Term 1</a>
+        <a href="term2/index.html" style="display:block; color:white; text-decoration:none; padding:10px 20px; font-size:18px;">Term 2</a>
+        <a href="term3/index.html" style="display:block; color:white; text-decoration:none; padding:10px 20px; font-size:18px;">Term 3</a>
+      </div>
+    </div>
+
+    <a href="archive/index.html" 
+       style="color:white; text-decoration:none; font-size:24px; letter-spacing:4px;">ARCHIVE</a>
+
   </nav>
-</header>
+
+  <script>
+    // Simple hover dropdown logic
+    document.querySelector('.dropdown').addEventListener('mouseenter', function() {
+      this.querySelector('.dropdown-content').style.display = 'block';
+    });
+    document.querySelector('.dropdown').addEventListener('mouseleave', function() {
+      this.querySelector('.dropdown-content').style.display = 'none';
+    });
 
   <!-- Hero section with background image -->
 <section class="hero" style="
