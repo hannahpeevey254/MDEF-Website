@@ -1,5 +1,8 @@
 
-# <span style="color: rgb(77, 45, 73); font-size: 48px;">Term 1</span>
+<h1 style="font-size:90px; font-weight:900; color:rgb(77, 45, 73); margin-top:20px; margin-bottom:10px;">
+  Term 1
+</h1>
+
 
 What is going on!!!!!!
 

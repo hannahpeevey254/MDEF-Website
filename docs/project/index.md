@@ -2,19 +2,20 @@
 .term-section {
   display: flex;
   justify-content: center;
-  align-items: flex-start;
+  align-items: stretch;
   gap: 40px;
-  margin-top: 60px;
-  flex-wrap: wrap;
+  margin: 80px auto;
+  flex-wrap: nowrap;
+  max-width: 1200px;
 }
 
 .term-card {
-  width: 240px;
-  height: 360px;
-  border-radius: 20px;
+  width: 260px;
+  height: 400px;
+  border-radius: 25px;
   color: white;
-  font-weight: 700;
-  font-size: 28px;
+  font-weight: 800;
+  font-size: 36px;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -30,18 +31,22 @@
 }
 
 .term1 { background-color: #3b2424; }  /* dark brown */
-.term2 { background-color: #d4d60a; }  /* yellow-green */
+.term2 { background-color: #d4d60a; color: black; }  /* yellow-green */
 .term3 { background-color: #4b1c45; }  /* purple */
 
 .term-description {
-  opacity: 0;
-  color: #fff;
-  font-size: 14px;
+  position: absolute;
+  bottom: 20px;
+  width: 80%;
   text-align: center;
-  margin-top: 10px;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.85);
+  opacity: 0;
   transition: opacity 0.3s ease;
-  width: 220px;
-  line-height: 1.4;
+}
+
+.term2 .term-description {
+  color: rgba(0, 0, 0, 0.7); /* darker text on yellow */
 }
 
 .term-card:hover .term-description {
@@ -51,9 +56,12 @@
 .term-card a {
   color: inherit;
   text-decoration: none;
-  display: block;
   width: 100%;
   height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 </style>
 
