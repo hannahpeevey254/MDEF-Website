@@ -13,11 +13,12 @@ This term focuses on xxx
 # ★ Studio 0 ★
 
 
-## Project 1 - Design Bet  
-Week 1 - "What is your research interest?"
+## Week 1 - Design Bet  
+
+**"What is your research interest?"** 
 
 
-<p style="font-size:18px;">
+<p style="font-size:12px;">
  I found this question to be equally as scary as someone asking you "what do you want to be when you grow up?", "who are you as a designer?","why dont you use your architecture degree?"
 </p>
 
