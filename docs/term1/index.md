@@ -1,30 +1,29 @@
 
-<p align="center" style="margin-top:10px;">
-  <span style="font-size:40 px; color:rgb(77, 45, 73);">
-     # Term 1
-  </span>
-</p> 
+# Term 1
+# <span style="color: rgb(77, 45, 73); font-size: 48px;">Term 1</span>
+
 What is going on!!!!!!
 
-This term focuses on xxx
 
 ---
 
-# ★ Studio 0 ★
+## ★ Studio 0 ★
 
-## Week 1 - Design Bet  
+**Week 1 - Design Bet**
 
+<!--
 <p align="center" style="margin-top:10px;">
   <span style="font-size:20px; color:black;">
-   "What is your research interest?"
+    "What is your research interest?"
   </span>
 </p>
+-->
 
 
 <p align="center">
   <img src="../images/Studio0_DesignBet.jpg" 
        alt="Studio 0 Design Bet" 
-       width="400"
+       width="500"
        style="border-radius:10px; box-shadow:0px 2px 10px rgba(0,0,0,0.15);">
   <br>
 </p>
