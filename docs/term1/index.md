@@ -2,12 +2,12 @@
 <div style="
   background-color: rgb(77, 45, 73);
   color: white;
-  font-size: 80px;
+  font-size: 200px;
   font-weight: 900;
   text-align: center;
-  border-radius: 25px;
-  padding: 20px 40px;
-  margin: 40px auto;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin: 5px auto;
   width: fit-content;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
   letter-spacing: 2px;
