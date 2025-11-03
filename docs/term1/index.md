@@ -6,9 +6,9 @@ What is going on!!!!!!
 
 ---
 
-## ★ Studio 0 ★
+# ★ ★ ★ Studio 0 ★ ★ ★
 
-## Design Bet
+## ★ Design Bet
 
 <!--
 <p align="center" style="margin-top:10px;">
@@ -32,7 +32,7 @@ What is going on!!!!!!
 
 ---
 
-# ★ ★ ★Studio 1 ★ ★ ★
+# ★ ★ ★ Studio 1 ★ ★ ★
 
 
 ## ★ Embodied Criticism 
@@ -51,4 +51,25 @@ Collected confessions from strangers were printed and scattered around Barcelona
 **Outcome:**  
 A growing physical archive of digital intimacy.
 
-### Reflections 1: Living with your own ideas 
+## ★  Reflections 1: Living with your own ideas 
+<div style="display:flex; justify-content:center; gap:30px; flex-wrap:wrap; margin: 40px 0;">
+
+  <!-- Prototype 1 -->
+  <div style="background:white; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); width:300px; height:300px; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; padding:15px;">
+    <img src="../images/Studio1_Reflections_Prototype1.gif" alt="Prototype 1" style="width:100%; height:100%; object-fit:cover; border-radius:8px;">
+    <h4 style="margin-top:10px; font-size:16px; color:rgb(77,45,73); font-weight:600;">Prototype 1</h4>
+  </div>
+
+  <!-- Prototype 2 -->
+  <div style="background:white; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); width:300px; height:300px; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; padding:15px;">
+    <img src="../images/Studio1_Reflections_Prototype2.gif" alt="Prototype 2" style="width:100%; height:100%; object-fit:cover; border-radius:8px;">
+    <h4 style="margin-top:10px; font-size:16px; color:rgb(77,45,73); font-weight:600;">Prototype 2</h4>
+  </div>
+
+  <!-- Prototype 3 -->
+  <div style="background:white; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); width:300px; height:300px; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; padding:15px;">
+    <img src="../images/Studio1_Reflections_Prototype3.gif" alt="Prototype 3" style="width:100%; height:100%; object-fit:cover; border-radius:8px;">
+    <h4 style="margin-top:10px; font-size:16px; color:rgb(77,45,73); font-weight:600;">Prototype 3</h4>
+  </div>
+
+</div>
