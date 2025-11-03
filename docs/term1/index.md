@@ -1,12 +1,16 @@
-# Term 1
 
+<p align="center" style="margin-top:10px;">
+  <span style="font-size:40 px; color:rgb(77, 45, 73);">
+     Term 1
+  </span>
+</p> 
 What is going on!!!!!!
 
 This term focuses on xxx
 
 ---
 
-# ★ Studio 0 
+# ★ Studio 0 ★
 
 
 ## Project 1 - Design Bet  
