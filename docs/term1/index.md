@@ -139,7 +139,7 @@ A growing physical archive of digital intimacy.
         <img src="../images/Studio1_Reflections_Prototype1.gif" alt="Prototype 1">
       </div>
       <p class="gif-description">
-        Write a few sentences here describing the first prototype — what inspired it, how it evolved, and what narrative or experiment it represents.
+        Explain the first prototype 
       </p>
     </div>
 
@@ -150,7 +150,7 @@ A growing physical archive of digital intimacy.
         <img src="../images/Studio1_Reflections_Prototype2.gif" alt="Prototype 2">
       </div>
       <p class="gif-description">
-        Explain the second prototype — how it builds on the first, what interaction or material you tested, and what observations you made.
+        Explain the second prototype 
       </p>
     </div>
 
@@ -161,7 +161,7 @@ A growing physical archive of digital intimacy.
         <img src="../images/Studio1_Reflections_Prototype3.gif" alt="Prototype 3">
       </div>
       <p class="gif-description">
-        Summarize the third prototype — the final iteration or concept, and how it expresses the narrative progression through your design.
+        Summarize the third prototype 
       </p>
     </div>
 
