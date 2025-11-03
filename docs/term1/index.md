@@ -39,6 +39,14 @@ I went through my six essays I had written when applying to multiple graduate sc
   </span>
 </p>
 
+<p align="center">
+  <img src="../images/Studio0_DesignBet.jpg" 
+       alt="Studio 0 Design Bet" 
+       width="600"
+       style="border-radius:10px; box-shadow:0px 2px 10px rgba(0,0,0,0.15);">
+  <br>
+  <em>Studio 0 — Design Bet</em>
+</p>
 
 
 >
