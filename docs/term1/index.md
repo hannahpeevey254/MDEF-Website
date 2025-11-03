@@ -1,33 +1,42 @@
-# Term 2
+# Term 1
 
-MDEF Term 1
 What is going on!!!!!!
 
 This term focuses on xxx
 
 ---
 
-## 🟡 Studio 0 
+# ★ Studio 0 
 
 
-# Project 1 - Design Bet  
-On our first week of MDEF we were asked "What is your research interest?"
-
-I found this question to be equally as scary as someone asking you "what do you want to be when you grow up?", "who are you as a designer?","why dont you use your architecture degree?"
+## Project 1 - Design Bet  
+Week 1 - "What is your research interest?"
 
 
-**What did I do** I went through my six essays I had written when applying to multiple graduate schools and , with the help of chat gbt, I found one common denominator. 
+<p style="font-size:18px;">
+ I found this question to be equally as scary as someone asking you "what do you want to be when you grow up?", "who are you as a designer?","why dont you use your architecture degree?"
+</p>
 
-**TO SHAPE THE HUMAN EXPERIENCE**  
-<p align="center">
-  <span style="font-size:20px; font-weight:bold;">TO SHAPE THE HUMAN EXPERIENCE</span><br>
-  <span style="font-size:14px; color:gray;">
-    - Creating moments that often go unnoticed yet define the quality of our lives - experiences that linger - a space, a texture, or an interaction that feels personal and alive -
+
+**Solution** 
+I went through my six essays I had written when applying to multiple graduate schools and , with the help of chat gbt, I found one common denominator. 
+
+
+<div align="center" style="background-color:black; color:white; padding:15px; border-radius:8px; width:80%; margin:auto;">
+  <span style="font-size:20px; font-weight:bold;">
+    TO SHAPE THE HUMAN EXPERIENCE
+  </span>
+</div>
+
+<p align="center" style="margin-top:10px;">
+  <span style="font-size:14px; color:black;">
+    — Creating moments that often go unnoticed yet define the quality of our lives — experiences that linger — a space, a texture, or an interaction that feels personal and alive —
   </span>
 </p>
 
 
-> “To make invisible data visible again.”
+
+>
 
 ---
 
