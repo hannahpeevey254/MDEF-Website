@@ -2,7 +2,7 @@
 <div style="
   background-color: rgb(77, 45, 73);
   color: white;
-  font-size: 200px;
+  font-size: 160px;
   font-weight: 900;
   text-align: center;
   border-radius: 10px;
