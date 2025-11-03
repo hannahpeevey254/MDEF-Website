@@ -1,5 +1,4 @@
 
-# Term 1
 # <span style="color: rgb(77, 45, 73); font-size: 48px;">Term 1</span>
 
 What is going on!!!!!!
@@ -9,7 +8,7 @@ What is going on!!!!!!
 
 ## ★ Studio 0 ★
 
-**Week 1 - Design Bet**
+## Design Bet
 
 <!--
 <p align="center" style="margin-top:10px;">
@@ -33,20 +32,18 @@ What is going on!!!!!!
 
 ---
 
-## 🟣 Project 2 — Algorithmic Mood Predictor
+# ★ ★ ★Studio 1 ★ ★ ★
 
 
-**Description:**  
-A playful Google Sheets experiment that predicts your emotional state based on your daily inputs (sleep, caffeine, steps, screen time, cycle phase, and mood word).
+## ★ Embodied Criticism 
+Step 1 : chose an interst
 
-**Goal:**  
-To show how much emotional power we give to algorithms.
+Socio - Bio - Techno - Political
 
-**Tools:** Google Sheets, Formulas, Conditional Logic, Data Visualization
 
 ---
 
-## 🟢 Project 3 — Digital Confession Archive
+## ★ Architecture of Action
 
 **Idea:**  
 Collected confessions from strangers were printed and scattered around Barcelona — reconnecting the digital and physical layers of data.
@@ -54,16 +51,4 @@ Collected confessions from strangers were printed and scattered around Barcelona
 **Outcome:**  
 A growing physical archive of digital intimacy.
 
----
-
-
-
----
-
-## 🧭 Reflection
-Through these prototypes, I explored how digital systems shape emotional transparency — asking where the line between comfort and exposure lies.  
-Next, I aim to connect this to **wearable design** and **sensor-based interaction** for my master project.
-
----
-
-*Last updated: November 2025*
+### Reflections 1: Living with your own ideas 
