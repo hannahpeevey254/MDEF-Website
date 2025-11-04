@@ -56,16 +56,8 @@ What is going on!!!!!!
 Step 1 : chose an interst
 
 Socio - Bio - Techno - Political
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; justify-items: center; align-items: center;">
 
-  <!-- Image -->
-  <div>
-    <img src="images/HomePage_Graphic.png" alt="HomePage_Graphic" style="width:100%; border-radius: 10px; object-fit: cover;">
-  </div>
-
-  
-
-
+ 
 ---
 
 ## ★ Architecture of Action
