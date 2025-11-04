@@ -12,7 +12,6 @@ nav:
   - Home: home/index.md
   - About:
       - About Me: about/index.md
-      - Me: about/me.md
   - Master Project:
       - Overview: project/index.md
       - Term 1: term1/index.md
