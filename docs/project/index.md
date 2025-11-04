@@ -46,7 +46,7 @@
 }
 
 .term2 .term-description {
-  color: rgba(0, 0, 0, 0.7); /* darker text on yellow */
+  color: rgba(255, 255, 255, 1); /* darker text on yellow */
 }
 
 .term-card:hover .term-description {
@@ -71,7 +71,7 @@
     <a href="../term1/index.html">
       TERM<br>1
       <div class="term-description">
-        Foundations, research interests, and early explorations.
+        Framing Design Intverensions
       </div>
     </a>
   </div>
@@ -80,7 +80,7 @@
     <a href="../term2/index.html">
       TERM<br>2
       <div class="term-description">
-        Prototyping, testing, and refining design concepts.
+        Embodying Emergent Contexts
       </div>
     </a>
   </div>
@@ -89,7 +89,7 @@
     <a href="../term3/index.html">
       TERM<br>3
       <div class="term-description">
-        Final outcomes, reflection, and project synthesis.
+        Challenging Alternative Presents
       </div>
     </a>
   </div>

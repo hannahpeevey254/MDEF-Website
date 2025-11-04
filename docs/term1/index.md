@@ -1,10 +1,6 @@
 
 <div style="
-<<<<<<< HEAD
-  background-color: rgb(77, 45, 73);
-=======
   background-color: rgb(48, 28, 30);
->>>>>>> 07ff1f6 (Clean rebuild without large video files)
   color: white;
   font-size: 56px;
   font-weight: 900;
@@ -60,6 +56,15 @@ What is going on!!!!!!
 Step 1 : chose an interst
 
 Socio - Bio - Techno - Political
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; justify-items: center; align-items: center;">
+
+  <!-- Image -->
+  <div>
+    <img src="images/HomePage_Graphic.png" alt="HomePage_Graphic" style="width:100%; border-radius: 10px; object-fit: cover;">
+  </div>
+
+  
+
 
 ---
 
