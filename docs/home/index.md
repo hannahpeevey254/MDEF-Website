@@ -25,21 +25,21 @@
 
 <div class="homepage-container">
 
-  <!-- Top Grid -->
-  <div class="top-grid">
-    <div class="image-box">
-      <img src="../images/HomePage_Graphic.png" alt="HomePage_Graphic">
-    </div>
-    <a href="mdef/index.html" class="grid-box purple">MASTERS<br>PROJECTS</a>
+<!-- Top Grid -->
+<div class="top-grid">
+  <div class="image-box">
+    <img src="../images/HomePage_Graphic.png" alt="HomePage_Graphic">
   </div>
+  <a href="../project/" class="grid-box purple">MASTERS<br>PROJECTS</a>
+</div>
 
-  <!-- Bottom Grid -->
-  <div class="bottom-grid">
-    <a href="index.html" class="grid-box red">HOME</a>
-    <a href="about/index.html" class="grid-box orange">ABOUT<br>ME</a>
-    <a href="mdef/index.html" class="grid-box brown">MDEF</a>
-    <a href="archive/index.html" class="grid-box yellow">ARCHIVE</a>
-  </div>
+<!-- Bottom Grid -->
+<div class="bottom-grid">
+  <a href="../home/" class="grid-box red">HOME</a>
+  <a href="../about/" class="grid-box orange">ABOUT<br>ME</a>
+  <a href="../MDEF/" class="grid-box brown">MDEF</a>
+  <a href="../archive/" class="grid-box yellow">ARCHIVE</a>
+</div>
 
 </div>
 
