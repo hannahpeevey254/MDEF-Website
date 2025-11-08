@@ -68,6 +68,10 @@ Collected confessions from strangers were printed and scattered around Barcelona
 **Outcome:**  
 A growing physical archive of digital intimacy.
 
+
+---
+
+
 ## ★  Reflections 1: Living with your own ideas 
 <style>
   .gif-section {
@@ -133,43 +137,48 @@ A growing physical archive of digital intimacy.
   <div class="gif-row">
     
     <div class="gif-column">
-      <div class="gif-title">Prototype 1</div>
-      <div class="gif-subtitle">"xxx"</div>
+      <div class="gif-title">Prostheses 1</div>
+      <div class="gif-subtitle">"Pick Your Poison"</div>
       <div class="gif-box">
         <img src="../images/Studio1_Reflections_Prototype1.gif" alt="Prototype 1">
       </div>
-      <p class="gif-description">
-        Explain the first prototype 
-      </p>
     </div>
 
-    <div class="gif-column">
-      <div class="gif-title">Prototype 2</div>
-      <div class="gif-subtitle">"xxx"</div>
-      <div class="gif-box">
-        <img src="../images/Studio1_Reflections_Prototype2.gif" alt="Prototype 2">
-      </div>
-      <p class="gif-description">
-        Explain the second prototype 
-      </p>
-    </div>
 
     <div class="gif-column">
-      <div class="gif-title">Prototype 3</div>
-      <div class="gif-subtitle">"xxx"</div>
+      <div class="gif-title">Prostheses 2</div>
+      <div class="gif-subtitle">"Passport Couture"</div>
       <div class="gif-box">
         <img src="../images/Studio1_Reflections_Prototype3.gif" alt="Prototype 3">
       </div>
-      <p class="gif-description">
-        Summarize the third prototype 
-      </p>
+    </div>
+
+    <div class="gif-column">
+      <div class="gif-title">Prostheses 3</div>
+      <div class="gif-subtitle">"Through my eyes"</div>
+      <div class="gif-box">
+        <img src="../images/Studio1_Reflections_Prototype2.gif" alt="Prototype 2">
+      </div>
     </div>
 
   </div>
 </div>
-<h3>Day 1 : “Be the best version of yourself”</h3>
+<p style="font-size:18px; font-weight:700; margin-bottom:10px;">
+  Day 1 : “Be the best version of yourself”
+</p>
 
-<h4>Protheses 1: Pick your Poison</h4>
+<div style="display:flex; justify-content:center; margin-bottom:20px;">
+  <p style="background-color: rgb(235,148,40);
+            color: white;
+            font-size:18px;
+            font-weight:400;
+            padding:8px 20px;
+            border-radius:12px;
+            text-align:center;
+            margin:0;">
+    Prostheses 1: Pick your Poison
+  </p>
+</div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start; margin-bottom: 60px;">
   <!-- Left text -->
@@ -192,19 +201,34 @@ A growing physical archive of digital intimacy.
       </iframe>
     </div>
 
-    <img src="images/Studio1_Prototype1.jpg" alt="Prototype1" style="width:100%; border-radius:16px; object-fit:cover;">
+    <img src="images/Studio1_Prototype 1.jpg" alt="Prototype 1" style="width:100%; border-radius:16px; object-fit:cover;">
   </div>
 </div>
 
-<p style="text-align:center; max-width:800px; margin:auto; margin-bottom:80px;">
-  A wearable warning label to getting to know Hannah Peevey.<br>
-  Would this version of myself deter new “smokers”? Would people still want to get to know me after seeing the worst parts of who I am displayed on my body?<br>
-  Or would no one care at all? Would you still smoke the cigarette?
+<p style="text-align:center; max-width:800px; margin:auto; margin-bottom:40px; line-height:1.6;">
+  <span style="display:block; font-size:16px; margin-bottom:10px;">
+    A wearable warning label to getting to know Hannah Peevey.
+  </span>
+  <span style="display:block; font-size:12px; margin-top:10px;">
+    Would this version of myself deter new “smokers”? Would people still want to get to know me after seeing the worst parts of who I am displayed on my body? Or would no one care at all? Would you still smoke the cigarette?
+  </span>
 </p>
 
 
 
-<h4>Protheses 2: Passport Couture<h4>
+<div style="display:flex; justify-content:center; margin-bottom:20px;">
+  <p style="background-color: rgb(235,148,40);
+            color: white;
+            font-size:18px;
+            font-weight:400;
+            padding:8px 20px;
+            border-radius:12px;
+            text-align:center;
+            margin:0;">
+    Prostheses 2: Passport Couture
+  </p>
+</div>
+
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start; margin-bottom: 60px;">
   <!-- Left text -->
@@ -212,7 +236,7 @@ A growing physical archive of digital intimacy.
     <p>It represents my privilege, my freedom, and my escape. This small blue book has been my exit ticket: it allowed me to leave Texas and build the life that I want for myself. Inside are the three visas that have let me live in three different countries; the stamps that mark memories of everywhere I’ve been; and the empty pages that hold the promise of what’s next.</p>
     <p>So, I turned it into jewelry. I put my passport on a necklace and bedazzled it. Not out of patriotism, but satire.</p>
     <p>When you meet me, you immediately hear my American accent and probably form a stereotype based on the loud Americans from TV or the politicians in the news — and honestly, fair enough. This piece plays into that: it’s both a parody of American excess and an acknowledgment of my privilege.</p>
-    <p>It’s shiny, absurd, and self-aware — something I literally can’t lose because it hangs around my neck. My wearable privilege.</p>
+    <p>It’s shiny, absurd, and self-aware — something I literally can’t lose because it hangs around my neck. My wearable privilege. My American Passport.</p>
   </div>
 
   <!-- Right visuals: video + image -->
@@ -231,15 +255,24 @@ A growing physical archive of digital intimacy.
   </div>
 </div>
 
-<p style="text-align:center; max-width:800px; margin:auto; margin-bottom:80px;">
-  My American Passport.<br>
+
+<p style="font-size:18px; font-weight:700; margin-bottom:10px;">
+  Day 1 : “Be the best version of yourself”
 </p>
 
-
-
-<h3>Day 2 : “To become something else”</h3>
-
-<h4>Protheses 1: Through my eyes</h4>
+<div style="display:flex; justify-content:center; margin-bottom:20px;">
+  <p style="background-color: rgb(235,148,40);
+            color: white;
+            font-size:18px;
+            font-weight:400;
+            padding:8px 20px;
+            border-radius:12px;
+            text-align:center;
+            margin:0;">
+    Prostheses 3: Through my eyes
+  </p>
+</div>
+>
 
 <p style="text-align:center; font-style:italic; margin-bottom:40px;">
   “We are not humans without storytelling.”
