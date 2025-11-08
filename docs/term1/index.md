@@ -192,7 +192,7 @@ A growing physical archive of digital intimacy.
       </iframe>
     </div>
 
-    <img src="images/Studio1_Prototype 1.jpg" alt="Prototype 1" style="width:100%; border-radius:16px; object-fit:cover;">
+    <img src="images/Studio1_Prototype1.jpg" alt="Prototype1" style="width:100%; border-radius:16px; object-fit:cover;">
   </div>
 </div>
 
