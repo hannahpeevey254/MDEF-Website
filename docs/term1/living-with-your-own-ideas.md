@@ -127,7 +127,7 @@
       </iframe>
     </div>
 
-    <img src="images/Studio1_Prototype1_2.jpg" alt="Studio 1 Prototype 1.2" style="width:100%; border-radius:16px; object-fit:cover;">
+    <img src="..images/Studio1_Prototype1_2.jpg" alt="Studio 1 Prototype 1.2" style="width:100%; border-radius:16px; object-fit:cover;">
   </div>
 </div>
 
@@ -177,7 +177,7 @@
       </iframe>
     </div>
 
-    <img src="images/Studio1_Prototype 2.jpg" alt="Prototype 2" style="width:100%; border-radius:16px; object-fit:cover;">
+    <img src="..images/Studio1_Prototype 2.jpg" alt="Prototype 2" style="width:100%; border-radius:16px; object-fit:cover;">
   </div>
 </div>
 
@@ -224,7 +224,7 @@
       </iframe>
     </div>
 
-    <img src="images/Studio1_Prototype 3.jpg" alt="Prototype 3" style="width:100%; border-radius:16px; object-fit:cover;">
+    <img src="..images/Studio1_Prototype 3.jpg" alt="Prototype 3" style="width:100%; border-radius:16px; object-fit:cover;">
   </div>
 </div>
 
