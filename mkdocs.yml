@@ -15,6 +15,9 @@ nav:
   - Master Project:
       - Overview: project/index.md
       - Term 1: term1/index.md
+      - Design Studio 1: term1/design-studio-1.md
+      - Living With Your Own Ideas: term1/living-with-your-own-ideas.md
+      - Unpacking Tech Systems: term1/unpacking-tech-systems.md
       - Term 2: term2/index.md
       - Term 3: term3/index.md
   - MDEF: MDEF/index.md
