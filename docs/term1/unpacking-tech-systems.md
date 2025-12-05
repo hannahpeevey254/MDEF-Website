@@ -50,11 +50,11 @@
     </div>
 
 </div>
+
 <!-- FULL-WIDTH IMAGE -->
 <div style="width:100%; margin: 30px 0;">
-    <img src="../images/UPT ISHAN HAND DRAWING.jpg" style="width:100%; height:auto; border-radius:6px;">
+<img src="../images/UPT ALL PARTS.jpg" style="width:100%; height:auto; border-radius:6px;">
 </div>
-
 <!-- LEFT TEXT + RIGHT IMAGE -->
 <div style="display:flex; gap:20px; justify-content:space-between; margin-top:20px;">
 
@@ -85,13 +85,18 @@
     <div style="width:25%;">
         <img src="../images/UPT TOUCH SENSOR IMAGES.jpg" style="width:100%; height:auto; border-radius:6px;">
     </div>
-
+    </div>
+<!-- FULL-WIDTH IMAGE -->
+<div style="display:flex; gap:12px; justify-content:center; margin-bottom:20px;">
+    <img src="../images/UPT IMAGE TRACED DRAWING.jpg" style="width:50%; height:auto; border-radius:6px;">
+    <img src="../images/UPT ISHAN HAND DRAWING.jpg" style="width:50%; height:auto; border-radius:6px;">
+</div>
 </div>
 
 <!-- WEEK 2 HEADING -->
 ## Week 2
 <p style="font-size:20px; margin-bottom:20px;">
-    Click the bottom right corner to access my flipbook/Zne.
+    Click the bottom right corner to view my flipbook/zine.
 </p>
 
 <h3 style="margin-top:40px;">Zine</h3>
@@ -130,7 +135,7 @@
 
     <!-- Page 3 -->
     <div class="page">
-        <img src="../images/JACK POPPING UP FINAL.jpg" style="width:100%; height:auto;">
+        <img src="../images/UPT BEFORE AFTER.jpg" style="width:100%; height:auto;">
     </div>
 
     <!-- Page 4 -->
@@ -141,7 +146,7 @@
     </div>
     <!-- Page 5 -->
     <div class="page">
-        <img src="../images/UPT PROTOTYPES.jpg" style="width:100%; height:auto;">
+        <img src="../images/UPT THE SYSTEM.jpg" style="width:100%; height:auto;">
     </div>
        <!-- Page 6 -->
     <div class="page">
@@ -154,12 +159,23 @@
 </p>
 
     </div>   
-     <!-- Page 7 -->
+    <!-- Page 7 -->
     <div class="page">
-        <h3>★ Final Gear Mechanism  ★ </h3>
+        <img src="../images/UPT PROTOTYPES.jpg" style="width:100%; height:auto;">
+    </div>
+     <!-- Page 8 -->
+    <div class="page">
         <img src="../images/UPT GEARS DIAGRAM.jpg" style="width:100%; height:auto;">
     </div>
-    <!-- Page 7 -->
+      <!-- Page 9 -->
+    <div class="page">
+        <img src="../images/GEARS GIF.gif" style="width:100%; height:auto; >
+    </div>
+    <!-- Page 10 -->
+    <div class="page">
+        <img src="../images/JACK POPPING UP FINAL.jpg" style="width:100%; height:auto;">
+    </div>
+     <!-- Page 11 -->
     <div class="page">
         <img src="../images/JACK POPPING UP FINAL.jpg" style="width:100%; height:auto;">
     </div>
@@ -170,6 +186,7 @@
 
 <!-- Load Turn.js -->
 <script src="../js/turn.js"></script>
+
 
 <!-- Create 2-page book -->
 <script>
@@ -203,4 +220,54 @@ document.addEventListener("DOMContentLoaded", function () {
 }
 </style>
 
+<!-- REFLECTION SECTION -->
+<h2 style="margin-top:50px;">Reflection</h2>
 
+<p style="font-size:14px; line-height:1.6; max-width:1000px; margin-bottom:10px;">
+   The second week pushed us even further as we moved from electronic sensing into mechanical storytelling. Transforming the preserved electronics into a “Jack-in-the-Box” style toy required us to combine sound, movement, timing, and physical constraints inside a box that was never meant to house any of it. Designing scissor mechanisms, calculating collapse heights, and troubleshooting gear systems made the process messy and often frustrating—but also incredibly rewarding. Every prototype taught us something new about force, friction, tolerances, and how sensitive physical systems can be when scaled down.
+</p>
+
+<p style="font-size:14px; line-height:1.6; max-width:1000px; margin-bottom:40px;">
+If I were to redo this project, I would simplify the mechanical concept. Instead of creating a complex gear system squeezed into the tight constraints of the radio box, I would return to the elegance of the original jack-in-the-box mechanism: a spring-based system with a simple open-and-close trigger for the lid. This would have honored the original play logic while allowing us to focus more deeply on the electronic interaction and storytelling.
+</p>
+
+
+<!-- LINK GUIDE SECTION -->
+<h2 style="margin-top:20px;">Link Guide</h2>
+
+<div style="margin-bottom:10px;">
+    <a href="https://www.figma.com/deck/PZwKRrZl7xRPOArGN5RcwH/Group-4--The-Raido?node-id=16-451&t=MeCWzZTfH8benLv7-1" target="_blank">
+        Full Presentation Here
+    </a>
+</div>
+
+<div style="margin-bottom:10px;">
+    <a href="https://drive.google.com/file/d/17EKpxDWs-aBYbCesM7_guWx4e_4hlSxg/view" target="_blank">
+        Watch the video here
+    </a>
+</div>
+
+<div style="margin-bottom:10px;">
+    <a href="https://miro.com/app/board/uXjVJuJuc9I=/" target="_blank">
+       Open Forensic Report
+    </a>
+</div>
+
+<div style="margin-bottom:10px;">
+    <a href="https://miro.com/app/board/uXjVJuJuc9I=/" target="_blank">
+        Open Inventory 
+    </a>
+</div>
+
+
+<!-- DOCUMENTATION SECTION -->
+<h2 style="margin-top:50px;">Documentation</h2>
+
+<div style="width:100%; margin-top:20px;">
+    <img src="../images/UPT DCUMENTATION DIAGRAMS.jpg" 
+         style="width:100%; height:auto; border-radius:6px;">
+</div>
+<div style="width:100%; margin-top:20px;">
+    <img src="../images/UPT DOCUMENTATION TWO.jpg" 
+         style="width:100%; height:auto; border-radius:6px;">
+</div>
