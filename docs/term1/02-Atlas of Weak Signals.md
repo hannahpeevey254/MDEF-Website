@@ -1,5 +1,10 @@
 
 # Atlas of Weak Signals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## ★ Swarming Technobiome
+
+**Idea:**  
+A colony of nano (bio)tech being omnipresent in the maintenance and distribution of infrastructures, resources and services for the wellbeing of interpersonal and interspecies dynamics. This consists of an equitable system aiming for restorative justice as a proactive privilege breakdown.
+
 
