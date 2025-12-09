@@ -248,13 +248,13 @@ If I were to redo this project, I would simplify the mechanical concept. Instead
 </div>
 
 <div style="margin-bottom:10px;">
-    <a href="https://miro.com/app/board/uXjVJuJuc9I=/" target="_blank">
+    <a href="https://hackmd.io/VbZAbcETQPGsrWOHqo6woQ" target="_blank">
        Open Forensic Report
     </a>
 </div>
 
 <div style="margin-bottom:10px;">
-    <a href="https://miro.com/app/board/uXjVJuJuc9I=/" target="_blank">
+    <a href="https://hackmd.io/VbZAbcETQPGsrWOHqo6woQ" target="_blank">
         Open Inventory 
     </a>
 </div>
