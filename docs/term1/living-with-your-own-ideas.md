@@ -183,7 +183,7 @@
 
 
 <p style="font-size:18px; font-weight:700; margin-bottom:10px;">
-  Day 1 : “Be the best version of yourself”
+  Day 2 : “XX”
 </p>
 
 <div style="display:flex; justify-content:center; margin-bottom:20px;">
