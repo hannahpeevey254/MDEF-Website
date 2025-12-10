@@ -11,7 +11,7 @@
         <meta name="description" content="Master in Design for Emergent Futures">
       
       
-        <link rel="canonical" href="https://fablabbcn.github.io/mdef-template/term1/01-Bootcamp.html">
+        <link rel="canonical" href="https://fablabbcn.github.io/mdef-template/term1/fundamentals-for-future-makers.html">
       
       
         <meta name="author" content="Student Name">
@@ -21,7 +21,7 @@
     
     
       
-        <title>Bootcamp - Hannah Peevey - MDEF & Fab Lab Barcelona</title>
+        <title>Fundamentals for Future Makers - Hannah Peevey - MDEF & Fab Lab Barcelona</title>
       
     
     
@@ -67,11 +67,6 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
-        
-        <a href="#bootcamp" class="md-skip">
-          Skip to content
-        </a>
-      
     </div>
     <div data-md-component="announce">
       
@@ -96,7 +91,7 @@
           </span>
           <span class="md-header-nav__topic md-ellipsis">
             
-              Bootcamp
+              Fundamentals for Future Makers
             
           </span>
         </div>
@@ -244,10 +239,12 @@
       
       
 
+  
 
-  <li class="md-nav__item md-nav__item--nested">
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" checked>
     
     <label class="md-nav__link" for="nav-3">
       Master Project
@@ -337,11 +334,18 @@
           
           
 
+  
 
-  <li class="md-nav__item">
-    <a href="fundamentals-for-future-makers.html" title="Fundamentals for Future Makers" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+    
+    <a href="fundamentals-for-future-makers.html" title="Fundamentals for Future Makers" class="md-nav__link md-nav__link--active">
       Fundamentals for Future Makers
     </a>
+    
   </li>
 
         
@@ -417,27 +421,12 @@
               </div>
             
             
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
-                    
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-    
-  
-  
-</nav>
-                  </div>
-                </div>
-              </div>
-            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/fablabbcn/mdef-template/edit/master/docs/term1/01-Bootcamp.md" title="Edit this page" class="md-content__button md-icon">
+                  <a href="https://github.com/fablabbcn/mdef-template/edit/master/docs/term1/fundamentals-for-future-makers.md" title="Edit this page" class="md-content__button md-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
                   </a>
                 
@@ -445,8 +434,136 @@
                   
                 
                 
-                <div><h1 id="bootcamp">Bootcamp<a class="headerlink" href="#bootcamp" title="Permanent link">¶</a></h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
+                  <h1>Fundamentals for Future Makers</h1>
+                
+                <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full-Fill Image Grid Layout</title>
+
+ <style>
+        /* * 1. THE OVERALL CONTAINER AND GRID SETUP 
+         */
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4; /* Light background for visibility */
+        }
+
+        .main-grid-container {
+            display: grid;
+            /* Define 4 columns: 1.5fr for the left, 1fr for the rest */
+            grid-template-columns: 1.5fr 1fr 1fr 1fr; 
+
+            /* Define 4 rows for the content alignment */
+            grid-template-rows: repeat(4, auto); 
+            gap: 20px; /* Space between all elements */
+            max-width: 1400px;
+            margin: auto;
+        }
+
+        /* * 2. STYLES FOR CONTENT BOXES (NO BORDERS)
+         */
+        .content-box {
+            /* Border and padding removed as requested */
+            background-color: white; 
+            display: flex; 
+            justify-content: center;
+            align-items: center;
+            min-height: 150px; /* Base height for all boxes */
+            overflow: hidden;
+            text-align: center;
+        }
+
+
+        /* * 3. IMAGE STYLES FOR FULL-FILL EFFECT 
+         */
+        .content-box img {
+            width: 100%;       /* Fill the container width */
+            height: 100%;      /* Fill the container height */
+            object-fit: cover; /* Important: Ensures the image covers the area, cropping if necessary */
+            display: block;
+        }
+
+        /* * 4. SPECIFIC GRID PLACEMENT FOR THE LARGE ELEMENTS 
+         */
+
+        /* Top-Left Large Image (Spans 1 column width, 2 rows height) */
+        #top-left-img {
+            grid-column: 1 / span 1; 
+            grid-row: 1 / span 2;    
+        }
+
+        /* Bottom-Left Text Block (Spans 1 column width, 2 rows height) */
+        #bottom-left-text {
+            grid-column: 1 / span 1; 
+            grid-row: 3 / span 2;    
+            text-align: left;
+            padding: 20px; /* Padding kept for text readability */
+            font-size: 0.8em;
+            min-height: 150px; 
+            /* Optional: Add a light border to separate text block from background */
+            border: 1px solid #ddd; 
+        }
+
+        /* Bottom-Right Large Image (Spans 3 columns width, 2 rows height) */
+        #bottom-right-img {
+            grid-column: 2 / span 3; 
+            grid-row: 3 / span 2;    
+        }
+
+        /* Small Grid Item (3x2) specific styling for the placeholders */
+        .small-grid-item {
+            /* Optional: Add a subtle border around the small images to separate them visually */
+             border: 1px solid #ddd; 
+             overflow: hidden;
+        }
+
+    </style>
+</head>
+<body>
+ <div class="main-grid-container">
+
+  <div id="top-left-img" class="content-box">
+            <img src="../images/FOFM%20DIAGRAM%201%202.jpg" alt="Large Image 1">
+        </div>
+
+   <div class="content-box small-grid-item">
+            <img src="../images/Studio1_Prototype%201.jpg" alt="Small Image 1">
+        </div> 
+  <div class="content-box small-grid-item">
+            <img src="../images/Studio1_Prototype%201.jpg" alt="Small Image 2">
+        </div>
+  <div class="content-box small-grid-item">
+            <img src="../images/Studio1_Prototype%201.jpg" alt="Small Image 3">
+        </div> 
+
+  <div class="content-box small-grid-item">
+            <img src="../images/Studio1_Prototype%201.jpg" alt="Small Image 4">
+        </div>
+   <div class="content-box small-grid-item">
+            <img src="../images/Studio1_Prototype%201.jpg" alt="Small Image 5">
+ </div>
+   <div class="content-box small-grid-item">
+            <img src="../images/Studio1_Prototype%201.jpg" alt="Small Image 6">
+        </div>
+
+   <div id="bottom-left-text" class="content-box">
+            <p>
+               The Fundamentals of Digital Fabrication seminar gave me a full reset on the tools and workflows in the Fab Lab, and I refreshed my skills in laser cutting, 3D printing, CNCing, working with molds, and even learned how to make biomaterials. Each week mixed software, machines, and electronics in a way that pushed me to get comfortable actually building things, not just designing them. It ended up being a solid foundation for everything I want to prototype moving forward.
+            </p>
+        </div>
+
+  <div id="bottom-right-img" class="content-box">
+             <img src="../images/FOFM%20DIAGRAM%202.jpg" alt="Large Image 2">
+        </div>
+
+ </div>
+
+</body>
+</html>
                 
                   
                     
@@ -474,6 +591,41 @@
       
         
 <footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="02-Atlas%20of%20Weak%20Signals.html" title="Atlas of Weak Signals" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Atlas of Weak Signals
+              </div>
+            </div>
+          </a>
+        
+        
+          <a href="mind-maps.html" title="Mind Maps" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Mind Maps
+              </div>
+            </div>
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
