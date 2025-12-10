@@ -1,6 +1,21 @@
 
 #  ★ ★ Design Studio ★ ★ 
+</div>
 
+
+<div style="
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+">
+  <img src="../images/TERM 1 CONTEXT PROTOYPE ACTION1 ACTION 2.jpg"
+       style="
+         width: 100%;
+         height: auto;
+         display: block;
+       ">
+</div>
 ## ★ Design Bet
 
 <!--
