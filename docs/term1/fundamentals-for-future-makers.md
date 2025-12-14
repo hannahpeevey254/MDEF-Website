@@ -94,23 +94,23 @@
         </div>
 
    <div class="content-box small-grid-item">
-            <img src="../images/Studio1_Prototype 1.jpg" alt="Small Image 1">
+            <img src="../images/FOFM PICTURE 2.jpg" alt="Small Image 1">
         </div> 
   <div class="content-box small-grid-item">
-            <img src="../images/Studio1_Prototype 1.jpg" alt="Small Image 2">
+            <img src="../images/FOFM PICTURE 3.jpg" alt="Small Image 2">
         </div>
   <div class="content-box small-grid-item">
-            <img src="../images/Studio1_Prototype 1.jpg" alt="Small Image 3">
+            <img src="../images/FOFM PICTURE 4.jpg" alt="Small Image 3">
         </div> 
 
   <div class="content-box small-grid-item">
-            <img src="../images/Studio1_Prototype 1.jpg" alt="Small Image 4">
+            <img src="../images/FOFM PICTURE 5.jpg" alt="Small Image 4">
         </div>
    <div class="content-box small-grid-item">
-            <img src="../images/Studio1_Prototype 1.jpg" alt="Small Image 5">
+            <img src="../images/FOFM PICTURE 6.jpg" alt="Small Image 5">
  </div>
    <div class="content-box small-grid-item">
-            <img src="../images/Studio1_Prototype 1.jpg" alt="Small Image 6">
+            <img src="../images/FOFM PICTURE 1.jpg" alt="Small Image 6">
         </div>
 
    <div id="bottom-left-text" class="content-box">
