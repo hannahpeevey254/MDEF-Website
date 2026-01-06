@@ -1,6 +1,136 @@
 
 # Atlas of Weak Signals
+## ★ Connecting Weak Signals to my Research Project
 
+**06.01.2026**  
+ 
+<!-- BLOCK 1 -->
+<div style="
+  display: flex;
+  width: 100%;
+  border: 1px solid #000;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 32px;
+">
+
+  <div style="width: 40%;">
+    <img src="../images/AOWS REFELCTION 0.jpg"
+      style="width:100%; height:100%; object-fit:cover; display:block;">
+  </div>
+
+  <div style="
+    width: 60%;
+    padding: 24px;
+    font-size: 14px;
+    line-height: 1.6;
+    display: flex;
+    align-items: center;
+  ">
+    <p style="margin:0;">
+      What are the actual limits to how humans and emerging technologies can interact? 
+      Are these restrictions truly inherent, or are they shaped by what we believe is right, 
+      ethical, or simply comfortable?
+    </p>
+  </div>
+
+</div>
+
+
+<!-- BLOCK 2 -->
+<div style="
+  display: flex;
+  width: 100%;
+  border: 1px solid #000;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 32px;
+">
+
+  <div style="width: 40%;">
+    <img src="../images/AOWS REFELCTION 1.jpg"
+      style="width:100%; height:100%; object-fit:cover; display:block;">
+  </div>
+
+  <div style="
+    width: 60%;
+    padding: 24px;
+    font-size: 14px;
+    line-height: 1.6;
+    display: flex;
+    align-items: center;
+  ">
+    <p style="margin:0;">
+      This explores the idea of breaking the boundaries of the human and technology experience,
+      questioning who sets these borders and how we might actively design our own limits.
+    </p>
+  </div>
+
+</div>
+
+
+<!-- BLOCK 3 -->
+<div style="
+  display: flex;
+  width: 100%;
+  border: 1px solid #000;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 32px;
+">
+
+  <div style="width: 40%;">
+    <img src="../images/AOWS REFELCTION 2.jpg"
+      style="width:100%; height:100%; object-fit:cover; display:block;">
+  </div>
+
+  <div style="
+    width: 60%;
+    padding: 24px;
+    font-size: 14px;
+    line-height: 1.6;
+    display: flex;
+    align-items: center;
+  ">
+    <p style="margin:0;">
+      The constant narrative of impending doom—technology, climate, job loss—creates
+      an overwhelming mindset that shapes how we exist in the present.
+    </p>
+  </div>
+
+</div>
+
+
+<!-- BLOCK 4 -->
+<div style="
+  display: flex;
+  width: 100%;
+  border: 1px solid #000;
+  border-radius: 12px;
+  overflow: hidden;
+">
+
+  <div style="width: 40%;">
+    <img src="../images/AOWS REFELCTION 4.jpg"
+      style="width:100%; height:100%; object-fit:cover; display:block;">
+  </div>
+
+  <div style="
+    width: 60%;
+    padding: 24px;
+    font-size: 14px;
+    line-height: 1.6;
+    display: flex;
+    align-items: center;
+  ">
+    <p style="margin:0;">
+      Permanence feels intimidating when framed as fixed and irreversible,
+      but in a constantly shifting technological world it becomes flexible and mutable.
+    </p>
+  </div>
+
+</div>
+---
 
 ## ★ SESSION 1
 
