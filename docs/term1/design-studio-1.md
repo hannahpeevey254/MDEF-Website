@@ -16,39 +16,53 @@
          display: block;
        ">
 </div>
+
 ## ★ Design Bet
-
-<!--
-<p align="center" style="margin-top:10px;">
-  <span style="font-size:20px; color:black;">
-    "What is your research interest?"
-  </span>
-</p>
--->
+**Enviromental Pscyhology**  
+Sensory vs Emotional Mapping of Public Spaces around Barcelona
 
 
-<p align="center">
-  <img src="../images/Studio0_DesignBet.jpg" 
-       alt="Studio 0 Design Bet" 
-       width="500"
-       style="border-radius:10px; box-shadow:0px 2px 10px rgba(0,0,0,0.15);">
-  <br>
-</p>
+ <div style="padding:70.73% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1152010105?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="HPeevey_Environmental Expression Video 2"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+<div style="
+  display: grid;
+  grid-template-columns: 65% 35%;
+  gap: 24px;
+  width: 100%;
+">
 
->
+  <!-- IMAGE 1 -->
+  <div style="width: 100%; height: 100%;">
+    <a href="../images/Studio1_EmbodiedCriticism_Info2.jpg" target="_blank">
+      <img src="../images/Studio1_EmbodiedCriticism_Info2.jpg"
+           style="
+             width: 100%;
+             height: 100%;
+             object-fit: cover;
+             display: block;
+             border-radius: 12px;
+             cursor: zoom-in;
+           ">
+    </a>
+  </div>
 
----
+  <!-- IMAGE 2 -->
+  <div style="width: 100%; height: 100%;">
+    <a href="../images/Studio1_EmbodiedCriticism_Info.jpg" target="_blank">
+      <img src="../images/Studio1_EmbodiedCriticism_Info.jpg"
+           style="
+             width: 100%;
+             height: 100%;
+             object-fit: cover;
+             display: block;
+             border-radius: 12px;
+             cursor: zoom-in;
+           ">
+    </a>
+  </div>
 
-# ★ ★ ★ Studio 1 ★ ★ ★
+</div>
 
-
-## ★ Embodied Criticism 
-Step 1 : chose an interst
-
-Socio - Bio - Techno - Political
-
- 
 ---
 
 ## ★ Architecture of Action
@@ -211,3 +225,48 @@ Click this link to interact with the 6 ai personas.
 <p style="text-align:center; font-size:10px; font-weight:500; margin:10px 0 10px 0;">
 Who the fck is Hannah?
 </p>
+
+---
+
+## ★  Design Dialogues
+ <p style="text-align:center; font-size:16px; font-weight:500; margin:10px 0 10px 0;">
+Last Will and Testament of Hannah Peeveys Digital Inheritance
+</p>
+<!-- Horizontal split section -->
+<div style="
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  gap: 30px;
+">
+
+  <!-- LEFT IMAGE (fixed 40%) -->
+ 
+  <div style="width: 60%; min-width: 60%;">
+    <a href="../images/Studio1_DesignDialogues.jpg" target="_blank">
+      <img src="../images/Studio1_DesignDialogues.jpg"
+           style="
+             width: 100%;
+             height: auto;
+             object-fit: cover;
+             display: block;
+             border-radius: 12px;
+             cursor: zoom-in;
+           ">
+    </a>
+  </div>
+  <!-- RIGHT TEXT (fixed 60%) -->
+  <div style="width: 40%; min-width: 40%; font-size:12px; line-height:1.6;">
+    <p>
+        I chose to create a will of my digital self as a way to formally acknowledge how much of a person’s life is now carried through data, systems, and digital artifacts rather than physical objects. As people share more information online and form deep attachments to digital data and artifacts, these virtual objects become deeply integrated into everyday life and, eventually, into how a life is remembered. This will treats those traces not as byproducts of technology use, but as meaningful records that shape identity, memory, and continuity beyond the physical body.
+   
+    </p>
+    <p>
+    The will acts as a container that brings together my broader body of work. The AI personas explore how identity fragments and persists through machine interpretation; the biometric stock market reframes bodily data as something that can be quantified, valued, and exchanged; and my research in environmental psychology examines how systems quietly influence behavior and decision-making. By organizing these elements into a legal-style document, the project asks what it means to take responsibility for one’s digital legacy. Rather than attempting to define a complete or truthful self, the will accepts the digital body as partial, contextual, and unresolved, and positions technological intimacy as the act of deciding what traces are allowed to remain, circulate, and outlive the individual.
+    </p>
+    </p>
+  </div>
+
+</div>
