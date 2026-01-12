@@ -61,5 +61,14 @@
       </div>
     </div>
   </a>
-
+<!-- EXTENDED INTELLIGENCES -->
+  <a href="Narratives-1.md/" style="text-decoration:none; color:inherit;">
+    <div style="position:relative; height:280px; border:2px solid black; overflow:hidden;">
+      <img src="../images/TERM%201%20EXTRA%20PHOOTO%205.jpg" style="width:100%; height:100%; object-fit:cover;">
+      <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
+        color:white; font-weight:bold; font-size:20px; text-shadow:0 0 8px rgba(0,0,0,.7);">
+        NARRATIVES 1
+      </div>
+    </div>
+  </a>
 </div>

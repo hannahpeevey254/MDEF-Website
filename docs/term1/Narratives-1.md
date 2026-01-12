@@ -6,6 +6,12 @@ For my personal narrative, I envision an interactive book that acts as a visual 
 The content will be broken into parts, with intentional moments where my ideas fully unfold for those interested in understanding where they came from and how they evolved. Instead of presenting a linear or resolved outcome, the book exposes the entire process in an unconventional way, allowing gaps, shifts, and overlaps to remain visible as part of the narrative.
 
 
+<div style="
+  display: grid;
+  grid-template-columns: 65% 35%;
+  gap: 24px;
+  width: 100%;
+">
 
   <!-- IMAGE 1 -->
   <div style="width: 100%; height: 100%;">
