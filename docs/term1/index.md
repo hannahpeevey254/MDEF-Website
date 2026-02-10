@@ -8,7 +8,7 @@
 ">
 
   <!-- DESIGN STUDIO 1 -->
-  <a href="design-studio-1/" style="text-decoration:none; color:inherit;">
+   <a href="/term1/design-studio-1/" style="text-decoration:none; color:inherit;">
     <div style="position:relative; height:280px; border:2px solid black; overflow:hidden;">
       <img src="../images/TERM%201%20EXTRA%20PHOOTO%205.jpg" style="width:100%; height:100%; object-fit:cover;">
       <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
@@ -19,7 +19,7 @@
   </a>
 
   <!-- LIVING WITH YOUR OWN IDEAS -->
-  <a href="living-with-your-own-ideas/" style="text-decoration:none; color:inherit;">
+  <a href="./living-with-your-own-ideas.md" style="text-decoration:none; color:inherit;">
     <div style="position:relative; height:280px; border:2px solid black; overflow:hidden;">
       <img src="../images/TERM%201%20EXTRA%20PHOOTO%205.jpg" style="width:100%; height:100%; object-fit:cover;">
       <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
@@ -30,7 +30,7 @@
   </a>
 
   <!-- UNPACKING TECH SYSTEMS -->
-  <a href="unpacking-tech-systems/" style="text-decoration:none; color:inherit;">
+  <a href="./unpacking-tech-systems.md" style="text-decoration:none; color:inherit;">
     <div style="position:relative; height:280px; border:2px solid black; overflow:hidden;">
       <img src="../images/TERM%201%20EXTRA%20PHOOTO%205.jpg" style="width:100%; height:100%; object-fit:cover;">
       <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
@@ -41,7 +41,7 @@
   </a>
 
   <!-- ATLAS OF WEAK SIGNALS -->
-  <a href="02-Atlas-of-Weak-Signals/" style="text-decoration:none; color:inherit;">
+  <a href="./02-Atlas%20of%20Weak%20Signals.md" style="text-decoration:none; color:inherit;">
     <div style="position:relative; height:280px; border:2px solid black; overflow:hidden;">
       <img src="../images/TERM%201%20EXTRA%20PHOOTO%205.jpg" style="width:100%; height:100%; object-fit:cover;">
       <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
@@ -51,8 +51,8 @@
     </div>
   </a>
 
-  <!-- EXTENDED INTELLIGENCES -->
-  <a href="mind-maps.md/" style="text-decoration:none; color:inherit;">
+  <!-- MIND MAPS -->
+  <a href="./mind-maps.md" style="text-decoration:none; color:inherit;">
     <div style="position:relative; height:280px; border:2px solid black; overflow:hidden;">
       <img src="../images/TERM%201%20EXTRA%20PHOOTO%205.jpg" style="width:100%; height:100%; object-fit:cover;">
       <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
@@ -61,8 +61,9 @@
       </div>
     </div>
   </a>
-<!-- EXTENDED INTELLIGENCES -->
-  <a href="Narratives-1.md/" style="text-decoration:none; color:inherit;">
+
+  <!-- NARRATIVES 1 -->
+  <a href="./Narratives-1.md" style="text-decoration:none; color:inherit;">
     <div style="position:relative; height:280px; border:2px solid black; overflow:hidden;">
       <img src="../images/TERM%201%20EXTRA%20PHOOTO%205.jpg" style="width:100%; height:100%; object-fit:cover;">
       <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
@@ -71,4 +72,5 @@
       </div>
     </div>
   </a>
+
 </div>
