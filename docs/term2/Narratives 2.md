@@ -138,10 +138,17 @@ This will be a flip book style broken up into 3 segments horizontally. As you ch
 </html>
 
 ---
+</div>
+<h2 style="margin-top:20; text-align:center;"> Peer Poster Swarna</h2>
+<!-- FULL-WIDTH IMAGE -->
+<div style="width:100%; margin: 30px 0; text-align:center;">
+<img src="../images/PEER POSTER 2.jpg" style="width:50%; height:auto; border-radius:6px;">
+</div>
 
+---
 
 </div>
-<h2 style="margin-top:20; text-align:center;"> Peer Poster</h2>
+<h2 style="margin-top:20; text-align:center;"> Peer Poster Hannah</h2>
 <!-- FULL-WIDTH IMAGE -->
 <div style="width:100%; margin: 30px 0; text-align:center;">
 <img src="../images/HANNAH PEEVEY NARRATIVES PROGRESS_peer poster.jpg" style="width:50%; height:auto; border-radius:6px;">
