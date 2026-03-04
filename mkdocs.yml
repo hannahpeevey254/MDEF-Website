@@ -1,4 +1,3 @@
-# Replace the text below to customize your site
 site_name: Hannah Peevey - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
 site_author: Student Name
@@ -7,38 +6,32 @@ repo_name: 'Name : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
 
-
 nav:
   - Home: home/index.md
-  - About:
-      - About Me: about/index.md
-  - Master Project:
-      - Overview: project/index.md
-      - Term 1: term1/index.md
+  - About Me: about/index.md
+  - Term 1:
+      - Overview: term1/index.md
       - Design Studio 1: term1/design-studio-1.md
       - Living With Your Own Ideas: term1/living-with-your-own-ideas.md
       - Unpacking Tech Systems: term1/unpacking-tech-systems.md
-      - Atlas of Weak Signals: term1/02-Atlas of Weak Signals.md
+      - Atlas of Weak Signals: "term1/02-Atlas of Weak Signals.md"
       - Fundamentals for Future Makers: term1/fundamentals-for-future-makers.md
       - Narratives 1: term1/Narratives-1.md
       - Mind Maps: term1/mind-maps.md
-      - Term 2: term2/index.md
-      - Cognative Orgies: term2/cognitive-orgies.md
-      - Extended Intelligence  II: term2/Extended-Intelligence-II.md
-      - Narratives 2: term2/Narratives 2.md
+  - Term 2:
+      - Overview: term2/index.md
+      - Cognitive Orgies: term2/cognitive-orgies.md
+      - Extended Intelligence II: term2/Extended-Intelligence-II.md
+      - Narratives 2: "term2/Narratives 2.md"
       - Extended Intelligence III: term2/Extended-Intelligence-III.md
-      - Situated Design Practice: term2\Situated-Design-Practice.md
+      - Situated Design Practice: term2/Situated-Design-Practice.md
       - Situated Design: term2/Situated-Design.md
-      - Term 3: term3/index.md
-  - Personal Work: Personal Work/index.md
-  - Archive: archive/index.md
-
-
-
+  - Term 3: term3/index.md
+  - Personal Work: "Personal Work/index.md"
+  - Contact: "contact/index.md"
 
 extra:
   social:
-    # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
     - icon: fontawesome/brands/medium
       link: https://medium.com/
     - icon: fontawesome/brands/instagram
@@ -53,32 +46,24 @@ extra:
 theme:
   name: material
   palette:
-    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: black
     accent: white
   font:
-    # See available fonts at https://fonts.google.com/
     text: Roboto Condensed
     code: Cutive Mono
-
-    extra_css:
-    - stylesheets/extra.css
-    - https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap
-
   icon:
     logo: material/memory
   favicon: images/favicon.svg
   features:
-    - instant
-    - navigation.expand
-    - navigation.indexes
     - navigation.instant
-    # - navigation.prune
-    # - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
-    - navigation.tracking
+
+extra_css:
+  - stylesheets/extra.css
+  - https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap
+  - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
 
 plugins:
   - search
@@ -99,19 +84,13 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-
   - md_in_html
-  - admonition
-  - codehilite
   - footnotes
-  - toc:
-      permalink: true
   - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
   - pymdownx.critic
-  - pymdownx.details
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
@@ -120,20 +99,9 @@ markdown_extensions:
   - pymdownx.smartsymbols
   - pymdownx.snippets:
       base_path: 'docs'
-  - pymdownx.superfences
-  - pymdownx.tasklist:
-      custom_checkbox: true
   - pymdownx.tilde
   - attr_list
   - pymdownx.tabbed
-
-extra_css:
-  - stylesheets/extra.css
-  - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
-
-extra_css:
-  - stylesheets/extra.css
-  - https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap
 
 docs_dir: docs
 use_directory_urls: false

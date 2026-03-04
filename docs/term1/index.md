@@ -1,76 +1,105 @@
-<h1 style="margin-bottom: 20px;">EXPLORE MY TERM 1 WORK</h1>
+<div class="term-index-wrapper">
 
-<div style="
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
-  width: 100%;
-">
+<div class="term-header">
+  <span class="term-number">01</span>
+  <span class="term-label">TERM 1</span>
+</div>
 
-  <!-- DESIGN STUDIO 1 -->
-   <a href="/term1/design-studio-1/" style="text-decoration:none; color:inherit;">
-    <div style="position:relative; height:280px; border:2px solid black; overflow:hidden;">
-      <img src="../images/TERM%201%20EXTRA%20PHOOTO%205.jpg" style="width:100%; height:100%; object-fit:cover;">
-      <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
-        color:white; font-weight:bold; font-size:20px; text-shadow:0 0 8px rgba(0,0,0,.7);">
-        DESIGN STUDIO 1
-      </div>
-    </div>
+<div class="term-contents">
+
+  <a href="design-studio-1.html" class="term-row">
+    <span class="row-num">01</span>
+    <span class="row-category">STUDIO</span>
+    <span class="row-title">Design Studio 1</span>
+    <span class="row-arrow">→</span>
   </a>
 
-  <!-- LIVING WITH YOUR OWN IDEAS -->
-  <a href="./living-with-your-own-ideas.md" style="text-decoration:none; color:inherit;">
-    <div style="position:relative; height:280px; border:2px solid black; overflow:hidden;">
-      <img src="../images/TERM%201%20EXTRA%20PHOOTO%205.jpg" style="width:100%; height:100%; object-fit:cover;">
-      <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
-        color:white; font-weight:bold; font-size:20px; text-shadow:0 0 8px rgba(0,0,0,.7);">
-        LIVING WITH YOUR OWN IDEAS
-      </div>
-    </div>
+  <a href="living-with-your-own-ideas.html" class="term-row">
+    <span class="row-num">02</span>
+    <span class="row-category">SEMINAR</span>
+    <span class="row-title">Living With Your Own Ideas</span>
+    <span class="row-arrow">→</span>
   </a>
 
-  <!-- UNPACKING TECH SYSTEMS -->
-  <a href="./unpacking-tech-systems.md" style="text-decoration:none; color:inherit;">
-    <div style="position:relative; height:280px; border:2px solid black; overflow:hidden;">
-      <img src="../images/TERM%201%20EXTRA%20PHOOTO%205.jpg" style="width:100%; height:100%; object-fit:cover;">
-      <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
-        color:white; font-weight:bold; font-size:20px; text-shadow:0 0 8px rgba(0,0,0,.7);">
-        UNPACKING TECH SYSTEMS
-      </div>
-    </div>
+  <a href="unpacking-tech-systems.html" class="term-row">
+    <span class="row-num">03</span>
+    <span class="row-category">SEMINAR</span>
+    <span class="row-title">Unpacking Tech Systems</span>
+    <span class="row-arrow">→</span>
   </a>
 
-  <!-- ATLAS OF WEAK SIGNALS -->
-  <a href="./02-Atlas%20of%20Weak%20Signals.md" style="text-decoration:none; color:inherit;">
-    <div style="position:relative; height:280px; border:2px solid black; overflow:hidden;">
-      <img src="../images/TERM%201%20EXTRA%20PHOOTO%205.jpg" style="width:100%; height:100%; object-fit:cover;">
-      <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
-        color:white; font-weight:bold; font-size:20px; text-shadow:0 0 8px rgba(0,0,0,.7);">
-        ATLAS OF WEAK SIGNALS
-      </div>
-    </div>
+  <a href="02-Atlas of Weak Signals.html" class="term-row">
+    <span class="row-num">04</span>
+    <span class="row-category">WORKSHOP</span>
+    <span class="row-title">Atlas of Weak Signals</span>
+    <span class="row-arrow">→</span>
   </a>
 
-  <!-- MIND MAPS -->
-  <a href="./mind-maps.md" style="text-decoration:none; color:inherit;">
-    <div style="position:relative; height:280px; border:2px solid black; overflow:hidden;">
-      <img src="../images/TERM%201%20EXTRA%20PHOOTO%205.jpg" style="width:100%; height:100%; object-fit:cover;">
-      <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
-        color:white; font-weight:bold; font-size:20px; text-shadow:0 0 8px rgba(0,0,0,.7);">
-        MIND MAPS
-      </div>
-    </div>
+  <a href="fundamentals-for-future-makers.html" class="term-row">
+    <span class="row-num">05</span>
+    <span class="row-category">SEMINAR</span>
+    <span class="row-title">Fundamentals for Future Makers</span>
+    <span class="row-arrow">→</span>
   </a>
 
-  <!-- NARRATIVES 1 -->
-  <a href="./Narratives-1.md" style="text-decoration:none; color:inherit;">
-    <div style="position:relative; height:280px; border:2px solid black; overflow:hidden;">
-      <img src="../images/TERM%201%20EXTRA%20PHOOTO%205.jpg" style="width:100%; height:100%; object-fit:cover;">
-      <div style="position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
-        color:white; font-weight:bold; font-size:20px; text-shadow:0 0 8px rgba(0,0,0,.7);">
-        NARRATIVES 1
-      </div>
-    </div>
+  <a href="Narratives-1.html" class="term-row">
+    <span class="row-num">06</span>
+    <span class="row-category">NARRATIVE</span>
+    <span class="row-title">Narratives 1</span>
+    <span class="row-arrow">→</span>
+  </a>
+
+  <a href="mind-maps.html" class="term-row">
+    <span class="row-num">07</span>
+    <span class="row-category">REFLECTION</span>
+    <span class="row-title">Mind Maps</span>
+    <span class="row-arrow">→</span>
   </a>
 
 </div>
+</div>
+
+<style>
+.term-index-wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 48px 24px 80px;
+  font-family: 'Arial', sans-serif;
+}
+.term-header {
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+  border-bottom: 3px solid #000;
+  padding-bottom: 16px;
+  margin-bottom: 0;
+}
+.term-number { font-size: 11px; font-weight: 700; letter-spacing: 0.12em; color: #999; }
+.term-label { font-size: 11px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: #000; }
+.term-contents { display: flex; flex-direction: column; }
+.term-row {
+  display: grid;
+  grid-template-columns: 40px 110px 1fr 32px;
+  align-items: center;
+  padding: 22px 0;
+  border-bottom: 1px solid #e0e0e0;
+  text-decoration: none !important;
+  color: #000 !important;
+  transition: all 0.15s;
+  gap: 16px;
+  cursor: pointer;
+}
+.term-row:hover { background: #f7f7f7; padding-left: 12px; padding-right: 12px; margin: 0 -12px; }
+.term-row:hover .row-arrow { transform: translateX(4px); color: #000; }
+.row-num { font-size: 11px; color: #bbb; font-weight: 600; letter-spacing: 0.05em; }
+.row-category {
+  font-size: 9px; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase;
+  color: #999; border: 1px solid #ddd; padding: 3px 8px; border-radius: 2px; white-space: nowrap;
+}
+.row-title {
+  font-size: 22px; font-weight: 800; text-transform: uppercase; letter-spacing: -0.01em;
+  color: #000 !important; font-family: 'Arial Black', Arial, sans-serif; line-height: 1.1;
+}
+.row-arrow { font-size: 18px; color: #ccc; transition: transform 0.2s, color 0.2s; justify-self: end; }
+</style>
+
