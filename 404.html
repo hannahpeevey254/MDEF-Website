@@ -47,6 +47,8 @@
     
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap">
     
+      <link rel="stylesheet" href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
+    
     
       
     
@@ -200,36 +202,10 @@
       
 
 
-  <li class="md-nav__item md-nav__item--nested">
-    
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
-    
-    <label class="md-nav__link" for="nav-2">
-      About
-      <span class="md-nav__icon md-icon"></span>
-    </label>
-    <nav class="md-nav" aria-label="About" data-md-level="1">
-      <label class="md-nav__title" for="nav-2">
-        <span class="md-nav__icon md-icon"></span>
-        About
-      </label>
-      <ul class="md-nav__list" data-md-scrollfix>
-        
-        
-          
-          
-          
-
-
   <li class="md-nav__item">
     <a href="/mdef-template/about/index.html" title="About Me" class="md-nav__link">
       About Me
     </a>
-  </li>
-
-        
-      </ul>
-    </nav>
   </li>
 
     
@@ -243,13 +219,13 @@
       <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
     
     <label class="md-nav__link" for="nav-3">
-      Master Project
+      Term 1
       <span class="md-nav__icon md-icon"></span>
     </label>
-    <nav class="md-nav" aria-label="Master Project" data-md-level="1">
+    <nav class="md-nav" aria-label="Term 1" data-md-level="1">
       <label class="md-nav__title" for="nav-3">
         <span class="md-nav__icon md-icon"></span>
-        Master Project
+        Term 1
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
         
@@ -260,20 +236,8 @@
 
 
   <li class="md-nav__item">
-    <a href="/mdef-template/project/index.html" title="Overview" class="md-nav__link">
+    <a href="/mdef-template/term1/index.html" title="Overview" class="md-nav__link">
       Overview
-    </a>
-  </li>
-
-        
-          
-          
-          
-
-
-  <li class="md-nav__item">
-    <a href="/mdef-template/term1/index.html" title="Term 1" class="md-nav__link">
-      Term 1
     </a>
   </li>
 
@@ -362,14 +326,40 @@
   </li>
 
         
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
+    
+    <label class="md-nav__link" for="nav-4">
+      Term 2
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Term 2" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        <span class="md-nav__icon md-icon"></span>
+        Term 2
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
           
           
           
 
 
   <li class="md-nav__item">
-    <a href="/mdef-template/term2/index.html" title="Term 2" class="md-nav__link">
-      Term 2
+    <a href="/mdef-template/term2/index.html" title="Overview" class="md-nav__link">
+      Overview
     </a>
   </li>
 
@@ -380,8 +370,8 @@
 
 
   <li class="md-nav__item">
-    <a href="/mdef-template/term2/cognitive-orgies.html" title="Cognative Orgies" class="md-nav__link">
-      Cognative Orgies
+    <a href="/mdef-template/term2/cognitive-orgies.html" title="Cognitive Orgies" class="md-nav__link">
+      Cognitive Orgies
     </a>
   </li>
 
@@ -393,7 +383,7 @@
 
   <li class="md-nav__item">
     <a href="/mdef-template/term2/Extended-Intelligence-II.html" title="Extended Intelligence II" class="md-nav__link">
-      Extended Intelligence  II
+      Extended Intelligence II
     </a>
   </li>
 
@@ -428,7 +418,7 @@
 
 
   <li class="md-nav__item">
-    <a href="/mdef-template/term2/Situated-Design-Practice.md" title="Situated Design Practice" class="md-nav__link">
+    <a href="/mdef-template/term2/Situated-Design-Practice.html" title="Situated Design Practice" class="md-nav__link">
       Situated Design Practice
     </a>
   </li>
@@ -446,20 +436,20 @@
   </li>
 
         
-          
-          
-          
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
 
 
   <li class="md-nav__item">
     <a href="/mdef-template/term3/index.html" title="Term 3" class="md-nav__link">
       Term 3
     </a>
-  </li>
-
-        
-      </ul>
-    </nav>
   </li>
 
     
@@ -481,8 +471,8 @@
 
 
   <li class="md-nav__item">
-    <a href="/mdef-template/archive/index.html" title="Archive" class="md-nav__link">
-      Archive
+    <a href="/mdef-template/contact/index.html" title="Contact" class="md-nav__link">
+      Contact
     </a>
   </li>
 
@@ -588,7 +578,7 @@
       <script>
         app = initialize({
           base: "/mdef-template/",
-          features: ["instant", "navigation.expand", "navigation.indexes", "navigation.instant", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking"],
+          features: ["navigation.instant", "navigation.tabs", "navigation.tabs.sticky", "navigation.top"],
           search: Object.assign({
             worker: "/mdef-template/assets/javascripts/worker/search.5eca75d3.min.js"
           }, typeof search !== "undefined" && search)
