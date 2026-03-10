@@ -10,7 +10,14 @@
   <a href="cognitive-orgies.html" class="term-row">
     <span class="row-num">01</span>
     <span class="row-category">SEMINAR</span>
-    <span class="row-title">Cognitive Orgies</span>
+    <span class="row-title">Cognitive Orgies I</span>
+    <span class="row-arrow">→</span>
+  </a>
+
+<a href="cognitive-orgies-2.html" class="term-row">
+    <span class="row-num">01</span>
+    <span class="row-category">SEMINAR</span>
+    <span class="row-title">Cognitive Orgies II</span>
     <span class="row-arrow">→</span>
   </a>
 
@@ -24,7 +31,7 @@
   <a href="Narratives 2.html" class="term-row">
     <span class="row-num">03</span>
     <span class="row-category">NARRATIVE</span>
-    <span class="row-title">Narratives 2</span>
+    <span class="row-title">Narratives II</span>
     <span class="row-arrow">→</span>
   </a>
 

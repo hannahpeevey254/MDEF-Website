@@ -247,3 +247,32 @@ Its creators or the systems that outgrew them.
   </div>
 
 </div>
+
+## ★ TERM 2
+
+**10 SIGNALS**  
+<!-- Full-width image -->
+<div style="width:100%; margin: 20px 0;">
+  <img src="../images/AOWS TERM 2-3.jpg" style="width:100%; height:auto; display:block; border-radius: 12px;">
+</div>
+
+<!-- Full-width image -->
+<div style="width:100%; margin: 20px 0;">
+  <img src="../images/AOWS TERM 2-1.jpg" style="width:100%; height:auto; display:block; border-radius: 12px;">
+</div>
+
+---
+
+**5 OPPORTUNITIES** 
+<!-- Full-width image -->
+<div style="width:100%; margin: 20px 0;">
+  <img src="../images/AOWS TERM 2-2.jpg" style="width:100%; height:auto; display:block; border-radius: 12px;">
+</div>
+
+---
+
+**5 TRIGGERS** 
+<!-- Full-width image -->
+<div style="width:100%; margin: 20px 0;">
+  <img src="../images/AOWS TERM 2-4.jpg" style="width:100%; height:auto; display:block; border-radius: 12px;">
+</div>
