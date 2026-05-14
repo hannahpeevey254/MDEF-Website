@@ -7,6 +7,13 @@
 
 <div class="term-contents">
 
+<a href="Studio II.md" class="term-row">
+    <span class="row-num">00</span>
+    <span class="row-category">Studio</span>
+    <span class="row-title">Studio II</span>
+    <span class="row-arrow">→</span>
+  </a>
+
   <a href="cognitive-orgies.html" class="term-row">
     <span class="row-num">01</span>
     <span class="row-category">SEMINAR</span>
