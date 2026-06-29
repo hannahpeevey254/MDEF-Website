@@ -14,6 +14,26 @@
     <span class="row-arrow">→</span>
   </a>
 
+  <a href="MDEF FEST.md" class="term-row">
+    <span class="row-num">02</span>
+    <span class="row-category">FINAL PROJECT</span>
+    <span class="row-title">MDEF FEST</span>
+    <span class="row-arrow">→</span>
+  </a>
+
+  <a href="MDEF Fabrication.md" class="term-row">
+    <span class="row-num">03</span>
+    <span class="row-category">FABLAB</span>
+    <span class="row-title">MDEF FEST</span>
+    <span class="row-arrow">→</span>
+  </a>
+
+   <a href="MDEF01 RECAP.md" class="term-row">
+    <span class="row-num">04</span>
+    <span class="row-category">RESEARCH</span>
+    <span class="row-title">MDEF FEST</span>
+    <span class="row-arrow">→</span>
+  </a>
 </div>
 </div>
 
