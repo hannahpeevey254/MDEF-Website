@@ -83,6 +83,10 @@
   </div>
 </div>
 
+![](..images/)
+
+<img src="../images/MDEF FEST PHOTO2.jpeg" style="width:80%; height:auto; border-radius:6px;">
+
 ---
 
 ## ★ The Story[¶](#the-story "Permanent link")
@@ -142,6 +146,10 @@ The installation ran on 18 June 2026 in Room 314 at Elisava, 14:30–16:30, as p
 The space held a table with physical folders — one per participant, face up, showing only their anonymous ID and euro value on the exterior. Inside: the Question Design Key, a thermal-style receipt showing their full buyer breakdown, and a match card with the name of the person they had been matched with.
 
 Two screens ran simultaneously: the live candlestick stock market at /market, and the 3-column CCTV-aesthetic profile reveal cycling through participant data. Below the screens, printed on a long scroll mounted on the wall in the manner of Dima Yarovinsky's I Agree (2018), was the full Terms and Conditions document. The clause that disclosed what would happen to their data was buried in the middle of it, in the same small legal font as everything else. It was always there. They agreed to it. They just did not read it.
+
+<img src="../images/MDEF FEST IMAGE 2 STOCK MARKET.png" style="width:80%; height:auto; border-radius:6px;">
+
+<img src="../images/MDEF FEST IMAGE 3.jpg" style="width:80%; height:auto; border-radius:6px;">
 
 > "You came looking for a date. We found 7 buyers for your data."
 
